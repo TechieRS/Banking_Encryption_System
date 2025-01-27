@@ -28,6 +28,14 @@ A simple console-based Bank Account Management System in C. This project allows 
    ```bash
    git clone https://github.com/TechieRS/bank-account-management-system.git
    cd bank-account-management-system
-2. **Complie and Run
-   gcc -o bank_system main.c
+
+   
+2. Compile the code:
+   ```bash
+      gcc -o bank_system main.c
+
+
+3. Run the program:
+   ```bash
    ./bank_system
+
